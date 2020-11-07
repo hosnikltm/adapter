@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Test Me</string>
+    <string name="enter_title">enter title</string>
+    <string name="enter_sub_title">enter sub Title</string>
+    <string name="save">save</string>
+    <string name="content">content</string>
+    <string name="check">check</string>
+    <string name="enter_check_text">enter Check Text</string>
+    <string name="enter_name">enter Name</string>
+    <string name="enter_number">enter Number</string>
+    <string name="enter_email">enter Email</string>
+    <string name="back">back</string>
+    <string name="saveed">Save</string>
+</resources>
